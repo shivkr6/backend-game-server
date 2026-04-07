@@ -1,0 +1,6 @@
+name "gameserver-backend"
+description "A backend server for my raycaster game."
+authors "Shivang"
+copyright "Copyright © 2026, Shivang"
+license "MIT"
+dependency "vibe-d" version="~>0.10.3"
